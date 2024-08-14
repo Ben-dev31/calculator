@@ -22,6 +22,12 @@ ce projet s'inscris dans la logique du projet ***VARA***
 * **backend** :        *dim. 25 au mar. 27 aout*
 * **optimisatin** :    *mer. 28 au sam. 31 aout* 
 
+## UI structure
+* ### main interface 
 
+* ### options
+    * Ajouter une formule
+    * calcul recurant 
+    * parametres
 ## LICENCE 
 ## Politique 
